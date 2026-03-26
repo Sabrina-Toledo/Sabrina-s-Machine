@@ -1,0 +1,64 @@
+
+body{
+background-color: #A46EFF;
+background-image: url(img/back.png);
+background-repeat: no-repeat; /* Impede a duplicação */
+background-size: cover;      /* Faz a imagem esticar para cobrir toda a tela */
+background-attachment: fixed; /* Mantém o fundo parado ao rolar a página */
+font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+color: #16003B;
+font-size: 50px;
+text-align: center;
+font-family:Arial, Helvetica, sans-serif;
+}
+
+h3 {
+color: #16003B;
+font-size: 25px;
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+font-size: 20px;
+font-style: italic;
+color: #16003B;
+}
+
+.resul{
+font-size: 20px;
+font-style: italic;
+color: #16003B;
+}
+
+.caixa{
+display: flex;
+justify-content: center;  
+flex-wrap: wrap;
+padding: 10px;
+}
+
+.decimal{
+padding: 20px;
+border-radius: 10px;
+width: 330px;
+background-color: #E4D4FF;
+text-align: center;
+}
+
+button{
+width: 100%;
+padding: 9px;
+border-radius: 6px;
+background-color: #4F00D4;
+color: white;
+}
+
+input {  
+padding: 10px;
+border-radius: 6px;
+background-color: #e5dcf5;
+}
