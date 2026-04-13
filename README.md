@@ -1,5 +1,5 @@
 # Sabrina-s-Machine
-Conversor de números decimais para as bases Octal, Hexadecimal e Binário.
+Conversor de números para as bases Octal, Hexadecimal e Binário.
 
 ## Tecnologias Utilizadas
 * **HTML5**: Estrutura da página.
