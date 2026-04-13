@@ -44,9 +44,39 @@ padding: 10px;
 .decimal{
 padding: 20px;
 border-radius: 10px;
-width: 330px;
+width: 300px;
 background-color: #E4D4FF;
 text-align: center;
+margin: 10px;
+}
+
+.binario{
+padding: 20px;
+border-radius: 10px;
+width: 300px;
+background-color: #E4D4FF;
+text-align: center;
+margin: 10px;
+}
+
+.octal{
+padding: 20px;
+border-radius: 10px;
+width: 300px;
+background-color: #E4D4FF;
+text-align: center;
+margin: 10px;
+
+}
+
+.hexadecimal{
+padding: 20px;
+border-radius: 10px;
+width: 300px;
+background-color: #E4D4FF;
+text-align: center;
+margin: 10px;
+
 }
 
 button{
